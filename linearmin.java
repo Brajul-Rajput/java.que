@@ -7,7 +7,7 @@ public class linearmin {
             if(arr[i]<min)
             min=arr[i];
         }
-        System.out.println( "max no.in array:"+min);
+        System.out.println( "min no.in array:"+min);
     }
 }
 

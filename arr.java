@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 public class arr{
+
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
 
@@ -16,6 +17,7 @@ public class arr{
 
             System.out.println("output of arrays :");
             System.out.println(Arrays.toString(nums));
+           
 
         }
 

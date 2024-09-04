@@ -12,8 +12,8 @@ public class linear1 {
     }
 public static void main(String[] args) {
     int []arr={19,12,-7,3,14,28};
-    int target=3;
-    int ans=linearsearch(arr,3);
+    int target=14;
+    int ans=linearsearch(arr,14);
     System.out.println(ans);
 }
 
